@@ -1,4 +1,4 @@
-require './first_page.rb'
+require '../q01/first_page.rb'
 
 class String
   @@grid_size = 9
