@@ -1,1 +1,1 @@
-$password = 'DUMMY'
+$password = 'READ'
